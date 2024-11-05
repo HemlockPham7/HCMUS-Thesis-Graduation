@@ -16,10 +16,9 @@ https://youtu.be/qXZZQBfz0DE
 
 ## 📸 Snapshots
 ### Home Screen
-![image](https://github.com/user-attachments/assets/8cd75856-1d33-475e-b8a8-b498fc582876)
-![image](https://github.com/user-attachments/assets/e0c55511-7722-4a2c-a07b-759ca9f87805)
-![image](https://github.com/user-attachments/assets/091a3e31-2ed6-4aeb-a225-5b996c89a3bd)
-![image](https://github.com/user-attachments/assets/5a165278-9625-4105-8f36-12c48baa317b)
+![image](https://github.com/user-attachments/assets/67f28a46-644e-4dd7-97cf-5d9259403fef)
+![image](https://github.com/user-attachments/assets/95755dd4-c275-4c74-a04b-17b68abb48a1)
+![image](https://github.com/user-attachments/assets/e008333f-782b-4935-806a-8a9e64c537d6)
 ![image](https://github.com/user-attachments/assets/d2bb5693-3904-4ce0-a786-7888745cd392)
 ![image](https://github.com/user-attachments/assets/572586ba-d065-4a17-a47e-d50c0b67c03a)
 ![image](https://github.com/user-attachments/assets/963fc9af-c2cc-42e3-80a3-f0ca0aa4773d)
