@@ -8,6 +8,7 @@ results with visual graphs in chart, pie, and bar formats.
 - Implemented a full-text search feature and sync data with Firestore by using Algolia.
   
 ## 👓 Demo
+https://youtu.be/qXZZQBfz0DE
 
 ## ⭐ Features
 
