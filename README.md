@@ -20,7 +20,6 @@ https://youtu.be/qXZZQBfz0DE
 ![image](https://github.com/user-attachments/assets/95755dd4-c275-4c74-a04b-17b68abb48a1)
 ![image](https://github.com/user-attachments/assets/d2bb5693-3904-4ce0-a786-7888745cd392)
 ![image](https://github.com/user-attachments/assets/572586ba-d065-4a17-a47e-d50c0b67c03a)
-![image](https://github.com/user-attachments/assets/963fc9af-c2cc-42e3-80a3-f0ca0aa4773d)
 
 ### Create a New Diary
 
