@@ -22,6 +22,8 @@ https://youtu.be/qXZZQBfz0DE
 ![image](https://github.com/user-attachments/assets/572586ba-d065-4a17-a47e-d50c0b67c03a)
 
 ### Create a New Diary
+![image](https://github.com/user-attachments/assets/c0a419c3-d1d3-4599-982b-eff86456383b)
+![image](https://github.com/user-attachments/assets/58012d0a-2c99-4d99-9b23-6db037702e1f)
 
 ### View Diaries List
 
