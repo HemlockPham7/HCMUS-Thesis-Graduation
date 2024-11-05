@@ -26,10 +26,14 @@ https://youtu.be/qXZZQBfz0DE
 ![image](https://github.com/user-attachments/assets/58012d0a-2c99-4d99-9b23-6db037702e1f)
 
 ### View Diaries List
+![image](https://github.com/user-attachments/assets/51e23b9c-9319-4f9e-882d-2b2d0e0a763f)
 
 ### View Detailed Diary
+![image](https://github.com/user-attachments/assets/b154bda4-91c3-45da-8ff9-0dbe2ca937b6)
 
 ### Digitize Handwritten Diaries
+![image](https://github.com/user-attachments/assets/70ecd90d-5700-4428-a26c-7acdb7c0af8b)
+![image](https://github.com/user-attachments/assets/0816eb34-8fc4-4135-a854-17062cf0ac2c)
 
 ### Analysis Emotion
 
