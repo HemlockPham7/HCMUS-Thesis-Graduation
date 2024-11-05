@@ -11,7 +11,13 @@ results with visual graphs in chart, pie, and bar formats.
 https://youtu.be/qXZZQBfz0DE
 
 ## ⭐ Features
-
+- Use AI Assistant features to generate diary
+- Digitize handwritten diairies
+- Search for diaries with keyword
+- Analyze emotion over a week, month, or year
+- View emotion analysis
+- Summarize diary over a time
+- Share diary to friend  
 
 
 ## 📸 Snapshots
@@ -36,12 +42,17 @@ https://youtu.be/qXZZQBfz0DE
 ![image](https://github.com/user-attachments/assets/0816eb34-8fc4-4135-a854-17062cf0ac2c)
 
 ### Analysis Emotion
+![image](https://github.com/user-attachments/assets/b39a471e-2227-45e6-91f6-8577045af749)
+![image](https://github.com/user-attachments/assets/e3ff37de-f555-4c04-a280-290fd4c71b81)
+![image](https://github.com/user-attachments/assets/13b7ad0d-92d6-4a45-a19c-2e097b780f71)
 
 ### Share Screen 
+![image](https://github.com/user-attachments/assets/e8aa7a19-ade2-438c-a66a-d23708ffb190)
 
 ### Search Screen
+![image](https://github.com/user-attachments/assets/e12a1f03-b8ab-4c88-b4d5-92a81667fe8e)
 
 ### Summarize Memories Screen
+![image](https://github.com/user-attachments/assets/0d429da4-31ee-49c6-a0f6-25dc33665986)
 
-### Background Music, and Daily Reminder Screen
 
